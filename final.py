@@ -1,9 +1,9 @@
-import tkinter
+from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 from tkcalendar import Calendar
 import mysql.connector
-import datetime
+from datetime import *
 import matplotlib.pyplot as pl
 import numpy as np
 from tkcalendar import DateEntry
